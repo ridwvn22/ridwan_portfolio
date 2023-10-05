@@ -1,0 +1,12 @@
+img.invert{
+    filter:invert(2px);
+}
+img.blurred{
+    filter:blur(4px);
+}
+img.hue-45{
+    filter:hue-rotate(45deg);
+}
+img.greyed{
+    filter:grayscale;
+}
